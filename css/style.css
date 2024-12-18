@@ -75,3 +75,93 @@ footer p {
     justify-content: center;
     width: 60%;
 }
+
+.p-one {
+    padding-left: 20%;
+    font-size: 30px;
+    color: rgb(57, 78, 162);
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p-content {
+    color: rgb(23, 67, 110);
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.img-about2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 60%;
+}
+
+.p-two {
+    padding-left: 20%;
+    font-size: 30px;
+    color: rgb(57, 78, 162);
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.img-about3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 60%;
+}
+
+.p-three {
+    padding-left: 20%;
+    font-size: 30px;
+    color: rgb(57, 78, 162);
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.img-about4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 60%;
+}
+
+.p-four {
+    padding-left: 20%;
+    font-size: 30px;
+    color: rgb(57, 78, 162);
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p-five {
+    padding-left: 20%;
+    font-size: 30px;
+    color: rgb(57, 78, 162);
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.img-about5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 60%;
+}
