@@ -49,3 +49,13 @@ footer p {
     text-align: center;
     font-size: 20px;
 }
+
+.imgrecom {
+    display: grid;
+    margin-left: 0%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.img-hil {
+    width: 700px;
+}
