@@ -1,1 +1,49 @@
-# homework-01 ha
+# homework-01 
+
+-git config --global user.name "kanrawee"
+-git config --global user.email "66160113@go.buu.ac.th"
+-git clone https://github.com/66160113kanrawee/homework-01.-git
+-git checkout -b development 
+-git checkout -b feature/homepage
+-git add .
+-git commit -m “เพิ่ม link font และ link style” 
+-git add .
+-git commit -m “เพิ่ม link font และ link style” 
+-git add .
+-git commit -m  “เพิ่มรูปภาพในหน้าแรกและค าอธิบายจังหวัด” 
+-git add .
+-git commit -m  “เพิ่มรูปภาพไฮไลท์และ footer ส่วนท้ายในหน้าแรก”
+-git checkout -b feature/about
+-git add .
+-git commit -m "เพิ่ม link font และ link css"
+-git add .
+-git commit -m "เพิ่ม haeder และ nav ในหน้าสถานทีท่องเที่ยว"
+-git checkout -b feature/contact
+-git add .
+-git commit -m "link font and link css"
+-git add .
+-git commit -m "header and nav"
+-git add .
+-git commit -m "เพิ่มฟอร์มพื้นฐานในหน้าติดต่อ"
+-git add .
+-git commit -m "เพิ่ม validation"
+-git add .
+-git commit -m "เพิ่ม ARIA Labels"
+-git add .
+-git commit -m "add aria landmarks"
+-git checkout -b feature/image
+-git add .
+-git commit -m "เพิ่มรูปภาพ ในโฟลเดอร์ image"
+-git checkout -b feature/css
+-git add .
+-git commit -m "ปรับแต่ง header ในหน้าแรก"
+-git add .
+-git commit -m "จัดแต่งภาพไฮไลท์"
+-git add .
+-git commit -m "ปรับแต่ง header ในส่วนของ about"
+-git add .
+-git commit -m "ปรับแต่งรูปภาพและข้อความหน้า about"
+-git add .
+-git commit -m "ปรับแต่งหน้า contact"
+-git add .
+-git commit -m "เพิ่มปุ่ม hamburger"
