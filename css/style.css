@@ -21,7 +21,12 @@ body nav ul {
     text-decoration: none;
     padding: 2rem;
     color: rgb(23, 67, 110);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+main h1{
+    font-family: "Noto Sans Thai", serif;
     font-weight: 600;
     font-style: normal;
 }
@@ -63,7 +68,7 @@ footer p {
 .head-about {
     font-size: 50px;
     text-align: center;
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 600;
     font-style: normal;
 }
@@ -80,7 +85,7 @@ footer p {
     padding-left: 20%;
     font-size: 30px;
     color: rgb(57, 78, 162);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -93,7 +98,7 @@ footer p {
     padding-left: 10%;
     padding-right: 10%;
     font-size: 20px;
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -110,7 +115,7 @@ footer p {
     padding-left: 20%;
     font-size: 30px;
     color: rgb(57, 78, 162);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -127,7 +132,7 @@ footer p {
     padding-left: 20%;
     font-size: 30px;
     color: rgb(57, 78, 162);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -144,7 +149,7 @@ footer p {
     padding-left: 20%;
     font-size: 30px;
     color: rgb(57, 78, 162);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -153,7 +158,7 @@ footer p {
     padding-left: 20%;
     font-size: 30px;
     color: rgb(57, 78, 162);
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
 }
@@ -170,7 +175,7 @@ form label {
     display: block;
     font-size: 22px;
     margin-bottom: 5px;
-    font-family: "Mitr", sans-serif;
+    font-family: "Noto Sans Thai", serif;
     font-weight: 500;
     font-style: normal;
     color: rgb(0, 108, 108);
