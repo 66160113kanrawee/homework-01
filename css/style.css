@@ -1,0 +1,27 @@
+body header {
+    margin: 0px;
+    padding: 10px;
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 10px;
+    font-style: normal;
+    color: rgb(3, 52, 96);
+    background-color: rgb(115, 206, 198);
+}
+
+body nav ul {
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.nav-home a {
+    text-decoration: none;
+    padding: 2rem;
+    color: rgb(23, 67, 110);
+    font-family: "Mitr", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
