@@ -59,3 +59,19 @@ footer p {
 .img-hil {
     width: 700px;
 }
+
+.head-about {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Mitr", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.img-about {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 60%;
+}
